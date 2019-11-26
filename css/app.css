@@ -1,0 +1,160 @@
+
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    width: 100%;
+    min-height: 100%;
+}
+
+h1,
+.uk-h1,
+h2,
+.uk-h2,
+h3,
+.uk-h3,
+h4,
+.uk-h4,
+h5,
+.uk-h5,
+h6,
+.uk-h6{
+    color: #ffffff;
+}
+
+.uk-background-yoomee{
+    background: #240F0C; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(to right, #000100,  #240F0C, #49140C, #49140C,#000000, #000000, #000100); /* Safari */
+    background: -o-linear-gradient(to right, #000100,  #240F0C, #49140C, #49140C,#000000, #000000, #000100); /* Opera 11.6 to 12.0 */
+    background: -moz-linear-gradient(to right, #000100,  #240F0C, #49140C, #49140C,#000000, #000000, #000100); /* Firefox 3.6 to 15 */
+    /* Standard syntax //background: radial-gradient(ellipse, #CF000F, #240F0C, #000010, #000100); */
+    /*background: radial-gradient(circle closest-corner at 400px 370px , #49140C 20%, #000000 60%, #000100 50%);*/
+    background: linear-gradient(to right, #000100,  #240F0C, #49140C, #49140C, #000000, #000000, #000100);
+}
+
+.uk-background-yoomee-unique{
+    background-color: #bf0c2a !important;
+}
+
+.uk-button-yoomee{
+    background-color: #1d1d1b;
+    border:1px solid #e30c30;
+}
+
+.uk-button-text-yoomee, .uk-button-text-yoomee:hover{
+    color: #e30c30;
+}
+
+.uk-button-text-yoomee::before{
+    border-bottom: 1px solid #e30c30;
+}
+
+.uk-yoomee-color{
+    background-color: #e30c30;
+    color: #ffffff !important;
+}
+
+.uk-text-yoomee, .uk-text-lead{
+    color: #ffffff !important;
+}
+
+.uk-border-boxe{
+    border:1px solid #e30c30;
+    color: #ffffff;
+}
+
+.uk-subnav-color{
+    color: #e30c30;
+}
+
+.uk-subnav-color > li > a{
+    color: #e30c30 !important;
+    display: flex !important;
+    align-items: center;
+    padding: 0 !important;
+}
+
+.uk-subnav-color span{
+    color: #fff !important;
+}
+
+.uk-subnav-menu li {
+    padding: 10px;
+    text-align: center;
+    height: auto;
+}
+
+
+.uk-subnav-menu > li > a{
+    height: auto;
+    color: #fff !important;
+    display: flex !important;
+    align-items: center;
+
+
+}
+
+.uk-subnav-menu > li:hover{
+    background-color: #e30c30;
+}
+
+.uk-subnav-menu .uk-active{
+    background-color: #e30c30;
+}
+
+.uk-subnav-menu .uk-promotion{
+    background-color: #36a9e1 !important;
+}
+
+.uk-subnav-menu .uk-navbar-dropdown{
+    background-color: #e30c30;
+}
+
+.uk-subnav-menu .uk-navbar-dropdown-nav a, .uk-subnav-menu .uk-navbar-dropdown-nav a:hover{
+    color: #fff;
+    font-size:1.2em;
+}
+
+/*.uk-subnav-menu > li.uk-active > a{*/
+    /*color: #fff !important;*/
+/*}*/
+
+
+.uk-border-top{
+    border-top:1px solid #e30c30;
+}
+
+/*[class*='uk-drop-bottom'] {*/
+    /*margin-top: 0px;*/
+/*}*/
+
+.uk-label-yoomee{
+    background-color: #36a9e1 !important;
+}
+
+
+
+.uk-bottom-yoomee{
+    background-color: #32353a;
+    color: #fff !important;
+}
+
+.uk-header-bottom-yoomee .uk-list a, .uk-header-bottom-yoomee .uk-subnav a{
+    color: #ffffff !important;
+}
+
+.uk-header-bottom-yoomee .uk-subnav a{
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.uk-header-bottom-yoomee .uk-subnav a:hover{
+    color: #e30c30 !important;
+    background-color: #eee;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+

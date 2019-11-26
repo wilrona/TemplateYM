@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/bacon/bacon-qr-code" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/endroid/qr-code" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/facebook/graph-sdk" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/khanamiryan/qrcode-detector-decoder" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/symfony/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/symfony/options-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/symfony/polyfill-php70" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/symfony/property-access" />
+      <excludeFolder url="file://$MODULE_DIR$/typerocket/vendor/typerocket/core" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

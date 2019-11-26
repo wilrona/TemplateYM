@@ -1,0 +1,491 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yoomee.cm\n"
+"POT-Creation-Date: 2017-09-25 10:37+0100\n"
+"PO-Revision-Date: 2018-05-03 14:57+0000\n"
+"Last-Translator: online <ronald.ndi@yoomee.onl>\n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: "
+
+#: actualite.php:50
+msgid "Aucune Actualite"
+msgstr ""
+
+#: actualite.php:51
+msgid "Veuillez revenir plutard"
+msgstr ""
+
+#: buy.php:22 shop.php:75
+msgid "Obtenir ce produit"
+msgstr ""
+
+#: buy.php:31 buy.php:65
+msgid "Comment recharger votre credit de communication ?"
+msgstr ""
+
+#: buy.php:34
+msgid "Besoin d'aide : Localisez une agence"
+msgstr ""
+
+#: buy.php:44
+msgid "Ou obtenir votre carte de recharge ?"
+msgstr ""
+
+#: buy.php:47 buy.php:56
+msgid "Comment recharger votre connexion internet ?"
+msgstr ""
+
+#: buy.php:53
+msgid "Ou obtenir votre modem ?"
+msgstr ""
+
+#: buy.php:62
+msgid "Ou obtenir votre téléphone ?"
+msgstr ""
+
+#: buy.php:73
+msgid "Précommander votre produit"
+msgstr ""
+
+#: buy.php:75
+msgid "Fermer"
+msgstr ""
+
+#: commande.php:20
+msgid "Nom Obligatoire"
+msgstr ""
+
+#: commande.php:27
+msgid "Email Obligatoire"
+msgstr ""
+
+#: commande.php:30
+msgid "Votre adresse email n'est pas valide"
+msgstr ""
+
+#: commande.php:37
+msgid "Numero de telephone obligatoire"
+msgstr ""
+
+#: commande.php:43
+msgid "Entre votre un numéro de telephone valide"
+msgstr "Entrer votre un numéro de téléphone valide"
+
+#: commande.php:50
+msgid "Information de la ville obligatoire"
+msgstr ""
+
+#: commande.php:57
+msgid "Adresse obligatoire"
+msgstr ""
+
+#: commande.php:161
+msgid "Votre Précommande a été pris en compte."
+msgstr ""
+
+#: commande.php:186
+msgid "Nom"
+msgstr ""
+
+#: commande.php:192
+msgid "Adresse Email"
+msgstr ""
+
+#: commande.php:198
+msgid "Téléphone"
+msgstr ""
+
+#: commande.php:204
+msgid "Ville"
+msgstr ""
+
+#: commande.php:210
+msgid "Addresse complete"
+msgstr ""
+
+#: commande.php:216
+msgid "Message"
+msgstr ""
+
+#: commande.php:223
+msgid "Achat dans un point de vente"
+msgstr ""
+
+#: commande.php:224
+msgid "Livraison à domicile"
+msgstr ""
+
+#: commande.php:229
+msgid "Comment connaissez vous yoomee ?"
+msgstr ""
+
+#: commande.php:233
+msgid "Sur le web"
+msgstr ""
+
+#: commande.php:234
+msgid "A la télévision"
+msgstr ""
+
+#: commande.php:235
+msgid "Par la presse ecrite"
+msgstr ""
+
+#: commande.php:236
+msgid "Par un ami"
+msgstr ""
+
+#: commande.php:237
+msgid "Autres"
+msgstr ""
+
+#: commande.php:245
+msgid "Valider"
+msgstr ""
+
+#: commande.php:246
+msgid "Retour à la boutique"
+msgstr ""
+
+#: contact.php:30
+msgid "Laissez nous un message"
+msgstr ""
+
+#: footer.php:12
+msgid "Découvrez Yoomee"
+msgstr ""
+
+#: footer.php:15
+msgid "Qui sommes nous ?"
+msgstr ""
+
+#: footer.php:16 header.php:360
+msgid "Blog"
+msgstr ""
+
+#: footer.php:17 header.php:367
+msgid "Emploi"
+msgstr ""
+
+#: footer.php:18
+msgid "Contactez-Nous"
+msgstr ""
+
+#: footer.php:27
+msgid "Internet"
+msgstr ""
+
+#: footer.php:42
+msgid "Téléphonie"
+msgstr ""
+
+#: footer.php:88
+msgid "Chargement"
+msgstr ""
+
+#: header.php:194 header.php:236
+msgid "Accueil"
+msgstr ""
+
+#: header.php:214
+msgid "Actualité"
+msgstr ""
+
+#: header.php:216
+msgid "Postes"
+msgstr ""
+
+#: header.php:346
+msgid "Agences"
+msgstr ""
+
+#: header.php:353
+msgid "Mon Compte"
+msgstr ""
+
+#: home.php:66 home.php:232
+msgid "Lire la suite"
+msgstr ""
+
+#: home.php:86
+msgid "Cliquez ici"
+msgstr ""
+
+#: home.php:124
+msgid "Lire plus"
+msgstr ""
+
+#: job_manager/account-signin.php:4
+msgid "Your account"
+msgstr "Votre compte"
+
+#: job_manager/account-signin.php:8
+#, php-format
+msgid "You are currently signed in as <strong>%s</strong>."
+msgstr "Vous êtes actuellement connecté en tant que <strong>%s</strong>."
+
+#: job_manager/account-signin.php:11
+msgid "Sign out"
+msgstr "Se déconnecter"
+
+#: job_manager/account-signin.php:21
+msgid "Have an account?"
+msgstr "Vous avez déjà un compte ?"
+
+#: job_manager/account-signin.php:23 job_manager/job-dashboard-login.php:3
+msgid "Sign in"
+msgstr "Connexion"
+
+#: job_manager/account-signin.php:27
+#, php-format
+msgid ""
+"If you don&rsquo;t have an account you can %screate one below by entering "
+"your email address/username. Your account details will be confirmed via "
+"email."
+msgstr ""
+"Si vous n’avez pas de compte, vous pouvez créer %s ci-dessous en entrant "
+"votre adresse e-mail / nom d’utilisateur. Les détails de votre compte seront "
+"confirmés par courrier électronique."
+
+#: job_manager/account-signin.php:27
+msgid "optionally"
+msgstr "éventuellement"
+
+#: job_manager/account-signin.php:31
+msgid "You must sign in to create a new listing."
+msgstr "Vous devez vous connecter pour créer une nouvelle liste."
+
+#: job_manager/account-signin.php:42 job_manager/job-submit.php:32
+#: job_manager/job-submit.php:49
+msgid "(optional)"
+msgstr "(optionnel)"
+
+#: job_manager/content-no-jobs-found.php:2
+msgid "There are no listings matching your search."
+msgstr "Il n’y a pas d’annonces correspondant à votre recherche."
+
+#: job_manager/content-no-jobs-found.php:4
+msgid "There are currently no vacancies."
+msgstr "Il n’y a actuellement pas de postes vacants."
+
+#: job_manager/content-single-job_listing-company.php:20
+msgid "Website"
+msgstr "Site Internet"
+
+#: job_manager/content-single-job_listing-meta.php:37
+msgid "This position has been filled"
+msgstr "Ce poste a été rempli"
+
+#: job_manager/content-single-job_listing-meta.php:39
+msgid "Applications have closed"
+msgstr "Les demandes ont été clôturées"
+
+#: job_manager/content-single-job_listing.php:6
+msgid "This listing has expired."
+msgstr "Cette liste a expiré."
+
+#: job_manager/form-fields/file-field.php:29
+#, php-format
+msgid "Maximum file size: %s."
+msgstr "Taille maximale du fichier: %s."
+
+#: job_manager/form-fields/multiselect-field.php:3
+msgid "No results match"
+msgstr "Pas de résultat"
+
+#: job_manager/form-fields/multiselect-field.php:3
+msgid "Select Some Options"
+msgstr "Sélectionnez certaines options"
+
+#: job_manager/form-fields/uploaded-file-html.php:12
+#: job_manager/form-fields/uploaded-file-html.php:14
+msgid "remove"
+msgstr "retirer"
+
+#: job_manager/job-application-email.php:1
+#, php-format
+msgid ""
+"To apply for this job <strong>email your details to</strong> <a "
+"class=\"job_application_email\" href=\"mailto:%1$s%2$s\">%1$s</a>"
+msgstr ""
+"Pour postuler à ce travail <strong> envoyez vos informations par e-mail à </ "
+"strong> <a class=« job_application_email » href=« mailto:%1$s%2$s »>%1$s</a>"
+
+#: job_manager/job-application-url.php:1
+msgid "To apply for this job please visit the following URL:"
+msgstr "Pour postuler à ce travail, visitez l’URL suivante:"
+
+#: job_manager/job-application.php:7
+msgid "Apply for job"
+msgstr "Postuler pour un travail"
+
+#: job_manager/job-dashboard-login.php:3
+msgid "You need to be signed in to manage your listings."
+msgstr "Vous devez être connecté pour gérer vos annonces."
+
+#: job_manager/job-dashboard.php:2
+msgid "Your listings are shown in the table below."
+msgstr "Vos listes sont affichées dans le tableau ci-dessous."
+
+#: job_manager/job-dashboard.php:14
+msgid "You do not have any active listings."
+msgstr "Vous n’avez aucune liste active."
+
+#: job_manager/job-dashboard.php:33 job_manager/job-dashboard.php:51
+msgid "Edit"
+msgstr "Modifier"
+
+#: job_manager/job-dashboard.php:36
+msgid "Mark not filled"
+msgstr "Marque non remplie"
+
+#: job_manager/job-dashboard.php:38
+msgid "Mark filled"
+msgstr "Marque remplie"
+
+#: job_manager/job-dashboard.php:41
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: job_manager/job-dashboard.php:45
+msgid "Relist"
+msgstr ""
+
+#: job_manager/job-dashboard.php:56
+msgid "Delete"
+msgstr "Supprimer"
+
+#: job_manager/job-filters.php:12
+msgid "Keywords"
+msgstr "Mot clés"
+
+#: job_manager/job-filters.php:17
+msgid "Location"
+msgstr "Emplacement"
+
+#: job_manager/job-filters.php:27
+msgid "Category"
+msgstr "Categories"
+
+#: job_manager/job-filters.php:31
+msgid "Any category"
+msgstr "Aucunes catégories"
+
+#: job_manager/job-filters.php:44
+msgid ""
+"Your browser does not support JavaScript, or it is disabled. JavaScript must "
+"be enabled in order to view listings."
+msgstr ""
+"Votre navigateur ne prend pas en charge JavaScript, ou il est désactivé. "
+"JavaScript doit être activé afin d’afficher les listes."
+
+#: job_manager/job-preview.php:3
+msgid "Submit Listing"
+msgstr "Soumettre la liste"
+
+#: job_manager/job-preview.php:4
+msgid "Edit listing"
+msgstr "Modifier le listing"
+
+#: job_manager/job-preview.php:5
+msgid "Preview"
+msgstr "Aperçu"
+
+#: job_manager/job-submit.php:13
+#, php-format
+msgid "You are editing an existing job. %s"
+msgstr "Vous modifiez un travail existant. % s"
+
+#: job_manager/job-submit.php:13
+msgid "Create A New Job"
+msgstr "Créer un nouvel emploi"
+
+#: job_manager/job-submit.php:43
+msgid "Company Details"
+msgstr "Détails de la société"
+
+#: job_manager/job-submitted.php:6
+#, php-format
+msgid ""
+"%s listed successfully. To view your listing <a href=\"%s\">click here</a>."
+msgstr ""
+"% s répertorié avec succès. Pour afficher votre liste <a href=« %s »> "
+"cliquez ici </a>."
+
+#: job_manager/job-submitted.php:9
+#, php-format
+msgid "%s submitted successfully. Your listing will be visible once approved."
+msgstr "% s soumis avec succès. Votre liste sera visible une fois approuvée."
+
+#: page-speciale.php:62
+msgid "Services/Offres Correspondants"
+msgstr ""
+
+#: page-speciale.php:102 page.php:131
+msgid "Voir toutes les offres"
+msgstr ""
+
+#: page.php:78
+msgid "Offres correspondantes"
+msgstr ""
+
+#: page.php:120 promotion.php:178 shop.php:180
+msgid "Obtenir"
+msgstr "Ajouter au panier"
+
+#: page.php:122 promotion.php:180 shop.php:182
+msgid "Détails"
+msgstr ""
+
+#: promotion.php:85 shop.php:107
+msgid "Tous"
+msgstr ""
+
+#: services.php:49 services.php:60
+msgid "Plus d'information"
+msgstr ""
+
+#: shop.php:70
+msgid "Plus de détail"
+msgstr ""
+
+#: shop.php:196
+msgid "Aucun produit/offre en cours"
+msgstr ""
+
+#: single-evenements.php:12
+msgid "Evènements"
+msgstr ""
+
+#: single-job_listing.php:11
+msgid "Toutes les offres d'emploi"
+msgstr ""
+
+#: single-produit.php:75
+msgid "Description du produit"
+msgstr ""
+
+#: single-produit.php:107
+msgid "Produits similaires"
+msgstr ""
+
+#: single-produit.php:145
+msgid "Shop Online"
+msgstr ""
+
+#: single.php:43
+msgid "Autres actualités"
+msgstr ""
+
+#: splash.php:24
+msgid "Acceder directement au site"
+msgstr ""
